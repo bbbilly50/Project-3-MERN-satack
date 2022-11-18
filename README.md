@@ -1,2 +1,2 @@
-# Project3-MERN-satack
-PROJECT 3: MERN STACK IMPLEMENTATION
+# Project-3-MERN-stack
+Project-3 : MERN stack implementation in AWS
